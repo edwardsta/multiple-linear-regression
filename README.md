@@ -1,5 +1,5 @@
 # Linear Regression with Multiple Variables
-This example was completed for the course 'Machine Learning' by Andrew Ng, Coursera (Adapted from Stanford CS229)
+Predict the market value of a house based on the size (sqr footage), and number of bedrooms.
 
 ## Overview
 We will implement linear regression with multiple variables to predict the prices of houses. Suppose you are selling your house and you want to know what a good market price would be. One way to do this is to ﬁrst collect information on recent houses sold and make a model of housing prices. The ﬁle ex1data2.txt contains a training set of housing prices in Portland, Oregon. The ﬁrst column is the size of the house (in square feet), the second column is the number of bedrooms, and the third column is the price of the house. The ex1_multi.m script will determine the market value.
